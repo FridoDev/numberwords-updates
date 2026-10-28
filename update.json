@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.10",
-  "apkUrl": "https://github.com/FridoDev/numberwords-updates/releases/download/v8/NumberWords-test-9.apk",
-  "size": 51125532,
-  "notes": "Still the same build, kept published so the update screen stays testable. The real 1.0.10 with ads lands shortly and replaces this.",
+  "versionCode": 11,
+  "versionName": "1.0.11",
+  "apkUrl": "https://github.com/FridoDev/numberwords-updates/releases/download/v11/NumberWords-test-10.apk",
+  "size": 54467295,
+  "notes": "Watch one short video to claim the All-In-One Power Pack (all 6 power-ups)\nA quick ad now appears between some levels - that is what keeps NumberWords free\nTaps and cards now answer the moment your finger goes down",
   "mandatory": false
 }
