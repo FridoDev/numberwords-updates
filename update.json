@@ -1,0 +1,8 @@
+{
+  "versionCode": 8,
+  "versionName": "1.0.8",
+  "apkUrl": "https://github.com/FridoDev/numberwords-updates/releases/download/v8/NumberWords-test-9.apk",
+  "size": 51125532,
+  "notes": "Google sign-in in the app, plus in-app updates, offline reminders and news notifications.",
+  "mandatory": false
+}
