@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.9",
+  "versionCode": 10,
+  "versionName": "1.0.10",
   "apkUrl": "https://github.com/FridoDev/numberwords-updates/releases/download/v8/NumberWords-test-9.apk",
   "size": 51125532,
-  "notes": "This release exists to test the update screen itself: the card, the live download bar and Android's install step. It is the same build you already have.",
+  "notes": "Still the same build, kept published so the update screen stays testable. The real 1.0.10 with ads lands shortly and replaces this.",
   "mandatory": false
 }
