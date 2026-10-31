@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.12",
-  "apkUrl": "https://github.com/FridoDev/numberwords-updates/releases/download/v12/NumberWords-test-11.apk",
-  "size": 54507072,
-  "notes": "200 new levels to spell - the campaign now runs to 300\nStars are fairer: a quick, clean solve earns them too\nA first-run tip points new players at the rules\nFixed the New High Score showing when it was not one",
+  "versionCode": 13,
+  "versionName": "1.0.13",
+  "apkUrl": "https://github.com/FridoDev/numberwords-updates/releases/download/v13/NumberWords-test-12.apk",
+  "size": 55571071,
+  "notes": "Levels now ask for tiles in a varying order, so no two levels open the same way\nNew NumberWords title artwork on the home screen\nSame words, same difficulty, your progress is untouched",
   "mandatory": false
 }
